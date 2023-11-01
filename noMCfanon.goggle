@@ -1,0 +1,6 @@
+! name: No Minecraft Fanon
+! description: Removes the Minecraft "Fanon" Wiki from search results
+! public: true
+! author: steviejoe66
+
+$discard,site=minecraftfanon.fandom.com
